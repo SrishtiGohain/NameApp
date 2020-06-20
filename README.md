@@ -1,6 +1,6 @@
 # nameapp
 
-A new Flutter project.
+A new Flutter project. yay.
 
 ## Getting Started
 
